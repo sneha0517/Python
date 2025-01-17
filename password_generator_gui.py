@@ -25,7 +25,7 @@ def on_generate_password():
         result.set(password)  # Update the result field
 
     except ValueError:
-        messagebox.showerror("Error", "Please enter a valid number for password length.")
+        messagebox.showerror("Error", "Please enter a valid number.")
 
 def copy_to_clipboard():
     """Copies the generated password to the clipboard."""
