@@ -49,7 +49,7 @@ if __name__ == "__main__":
     print("Random Password Generator!")
     try:
         length = int(input("Enter the desired password length (minimum 4): "))
-        use_uppercase = input("Include uppercase letters? (yes/no): ").strip().lower() == 'Y'
+        use_uppercase = input("Include uppercase letters? (Y/N): ").strip().lower() == 'Y'
         use_digits = input("Include digits? (Y/N): ").strip().lower() == 'Y'
         use_symbols = input("Include symbols? (Y/N): ").strip().lower() == 'Y'
 
