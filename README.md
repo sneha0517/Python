@@ -27,7 +27,7 @@ This project generates secure, random passwords based on user-defined criteria. 
 ### How to Use
 #### **1. Clone this Repository**
    ```bash
-   git clone https://github.com/sneha0517/Python.git
+   git clone https://github.com/sneha0517/python-scripts.git
 
 
 
