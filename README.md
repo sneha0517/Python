@@ -16,17 +16,19 @@ This project generates secure, random passwords based on user-defined criteria. 
 
 ---
 
-### How to Use
-#### **1. Clone this Repository**
-   ```bash
-   git clone https://github.com/sneha0517/Python.git
-
----
 ### Future Enhancements
 - [ ] Add a password strength indicator (weak, medium, strong) based on length and complexity.
 - [ ] Save generated passwords to a secure file or encrypted database.
 - [ ] Add an option to regenerate a new password with the same criteria.
 - [ ] Provide localization/multilanguage support for the GUI.
 - [ ] Offer a "Password History" feature to view recently generated passwords.
+
+
+### How to Use
+#### **1. Clone this Repository**
+   ```bash
+   git clone https://github.com/sneha0517/Python.git
+
+
 
 
